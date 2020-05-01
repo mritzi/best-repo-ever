@@ -1,4 +1,5 @@
 # best-repo-ever
 trailhead
-text from branch2
+
+some more text
 ...
